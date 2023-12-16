@@ -1,0 +1,61 @@
+
+
+.bodyW {
+  font-family: "Roboto", sans-serif;
+  background-color: white);
+}
+
+.headerW {
+  border-bottom: 1px solid #ececec;
+}
+
+.containerW {
+  box-sizing: border-box;
+  background-color: rgba(255, 0, 0, 0.139);
+  width: 1200px;
+  height: 700px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.butt {
+display: block;
+position: relative;
+height: 150px;
+width: 450px;
+background-color: rgba(2, 49, 78, 0.348);
+}
+
+.buttSpanText {
+position: absolute;
+bottom: 0;
+left: 0;
+z-index: 3;
+}
+
+/* .buttLogoSVG {
+position: absolute;
+top:0;
+left: 0;
+background-color: rgba(0, 0, 255, 0.151);
+z-index: 4;
+} */
+
+/* .buttLogoUse {
+  position: absolute;
+  z-index: 5;
+  width: 50px;
+height: 50px;
+/* fill: red; */
+background: red;
+} */
+
+/* .logoW_image {
+fill: red;
+width: 50px;
+height: 50px;
+} */
+
+
